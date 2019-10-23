@@ -1,7 +1,12 @@
+Git 相关配置信息及链接
 
+user.name=zhangzhiqiang
+user.email=wb-zzq640637@cainiao.com
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCv/dkbIubDA/15RV0wsy6nGAoBsFo1VDDCAmaDhW7baZMz/3cYmrl9yiZLc91h8VWhWVVAQMXjqMvs4OGeRCtneY4jKK0dOHPbWgoRxDxAMVYuXgUWJ3n+5JwBQUUPvxRev0/uWryT/GgGiK618DYIbLNFXJv84b2AfHDQk2AgS66OyhyDAgohpkC2vn6BAtNpZ+hwEZFM23NsNo8F7dSJlIM8xdxDPO6s80ku78xB7xohukvFP/QVejOJvyh7RARi8yvcF493v0IRMblm3R2LjuyRCatpEfDlHu/VdmzLxJYA5LtaWwEGhUoWeipo+I2jJeKaNF8F+JLFK9w9T/6d wb-zzq640637@cainiao.com
 
-sdfsdf1231232
+http://gitlab.alibaba-inc.com/Dwork/dwork
 
-sdfsdsf12312312
+https://founder.cainiao-inc.com/ground-net-front/dwork/sprints
 
-sdfsdf
+https://yuque.antfin-inc.com/dwork/ggog68/ribnmi
+ Ssh:  vim /Users/zzq/.ssh/id_rsa.pub 
